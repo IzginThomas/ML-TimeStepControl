@@ -52,7 +52,7 @@ described in the `README.md` file therein.
 
 
 ## Authors
-- [Thomas Izgin](www.uni-kassel.de/go/izgin) (University of Kassel, Germany)
+- [Thomas Izgin](https://uni-kassel.de/go/izgin) (University of Kassel, Germany)
 - [Hendrik Ranocha](https://ranocha.de) (Johannes Gutenberg University Mainz, Germany)
 
 
