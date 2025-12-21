@@ -22,7 +22,7 @@ To create the tables in the Appendix use
 ```bash
 WriteTables();
 ```
-and
+which will generate latex files in the parent folder. Use
 ```bash
 read_standard_costs();
 ```
@@ -50,5 +50,6 @@ Finally, if you wish to run the Basian Optimization again, use
 ```bash
 Bayes();
 ```
+
 
 
