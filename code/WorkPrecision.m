@@ -16,7 +16,7 @@ paraint = 0.25;
 %paraint = 0.4;
 tests = {'PME', 'FokkerPlanck', 'robertson', 'hires8eq','npzd', 'brusselator',{'PR4',paraint}};
 %tests = {'robertson',{'PR4',paraint}};
-tests = {'PME'};
+%tests = {'PME'};
 %tests = {'robertson', 'hires8eq','npzd', {'PR4',paraint}};
 %tests = {'brusselator',{'PR4',[0.1 0.3 0.5]}};
 
