@@ -24,4 +24,4 @@ for i = 1:length(str_pair)
     end
 
 end
-table2latex(T, char(string(fileparts(pwd)) + "\Paper\" + "standard_costs" + ".tex"));
+table2latex(T, char(string(fileparts(pwd)) + "\" + "standard_costs" + ".tex"));
